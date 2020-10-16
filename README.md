@@ -4,6 +4,15 @@ The final exercise in the Geo-Python course involves calculating and plotting se
 
 As with the earlier exercises in the course you should save your modifications (regularly) in your GitHub repository.
 
+The final exercise is **due by 17:00 on November 6, 2020**.
+
+## What is different?
+
+- You will be **working individually** rather than with a partner on this exercise
+- We will provide general instructions about what to do, but you will need to determine how you will approach this exercise
+- You will have an empty Jupyter notebook and will be responsible for determining how you will use the Markdown and Python cells to perform your analysis
+- The exercise is worth **40 points in total**
+
 ## The goal
 
 Your task is to create a four-panel plot showing the seasonal temperature anomalies for winter, spring, summer, and autumn for the years 1909-2019. A template for how the final plot should look can be found below.
@@ -69,6 +78,6 @@ We will assess your exercise based on the following criteria:
 - Aggregating the daily temperature values as needed
 - Plotting your data and formatting the plot to have the necessary elements
 - Documenting your data workflow using Markdown cells in your notebook
-- Including code comments and code format in line with the PEP-8 guidelines.
+- Including code comments and code format in line with the PEP-8 guidelines
 
 The total number of points you can receive is 40.
