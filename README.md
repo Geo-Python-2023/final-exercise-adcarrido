@@ -2,9 +2,11 @@
 
 The final exercise in the Geo-Python course involves calculating and plotting seasonal weather anomalies to see how temperatures have changed in different seasons over the past 100+ years. We will be using weather data from the Sodankylä weather station in northern Finland.
 
+As with the earlier exercises in the course you should save your modifications (regularly) in your GitHub repository.
+
 ## The goal
 
-Your task is to create a four-panel plot showing the seasonal temperature anomalies for winter, spring, summer, and autumn for the years 1909-2009. A template for how the final plot should look can be found below.
+Your task is to create a four-panel plot showing the seasonal temperature anomalies for winter, spring, summer, and autumn for the years 1909-2019. A template for how the final plot should look can be found below.
 
 ![Seasonal anomaly plot](img/axes.png)
 
@@ -31,11 +33,11 @@ Missing data are identified with `-9999` and more information about the data can
 
 ### Important note about the data!
 
-You will notice that there are many missing values in the `TAVG` column. In order to supplement the values that are present in that column, you should calculate another estimate of the average daily temperature by averaging the `TMAX` and `TMIN` values. For days where the `TAVG` values are missing, you can use your estimated average daily temperature to fill in some of the missing values. You may want to do this in a separate column.
+You will notice that there are many missing values in the `TAVG` column. For days where the `TAVG` values are missing, you can calculate an estimate of the average daily temperature by averaging the `TMAX` and `TMIN` values. You may want to do this in a new column. **Note** don't replace the existing `TAVG` values with your estimates!
 
 ## What to do
 
-In contrast to earlier exercises in the course, in this exercise we are providing only general instructions of how to complete the exercise. This is to help us see how much you have learned about programming in Python and to see how you would approach interacting with data using your new skills.
+In contrast to earlier exercises in the course, in this exercise we are providing an empty notebook and only general instructions of how to complete the exercise. This is to help us see how much you have learned about programming in Python and to see how you would approach interacting with data using your new skills.
 
 For this exercise you should:
 
