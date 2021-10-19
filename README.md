@@ -1,10 +1,10 @@
-# Geo-Python 2020 final exercise (40 points)
+# Geo-Python 2021 final exercise (40 points)
 
 The final exercise in the Geo-Python course involves calculating and plotting seasonal weather anomalies to see how temperatures have changed in different seasons over the past 100+ years. We will be using weather data from the Sodankylä weather station in northern Finland.
 
 As with the earlier exercises in the course you should save your modifications (regularly) in your GitHub repository.
 
-The final exercise is **due by 17:00 on November 13, 2020**.
+The final exercise is **due by 17:00 on November 19, 2021**.
 
 ## What is different?
 
@@ -50,7 +50,7 @@ In contrast to earlier exercises in the course, in this exercise we are providin
 
 For this exercise you should:
 
-1. Read in the provided data file using Pandas and missing data to NA values.
+1. Read in the provided data file using pandas and convert missing data to NA values.
 2. Fill in the missing values in the `TAVG` column with your estimates of the average daily temperature as noted above in the data section. You can then drop any average daily temperatures that are still missing.
 3. Define and use a function to convert temperatures in Fahrenheit to Celsius.
 4. Calculate seasonal average temperatures for each season in every year (e.g., Winter 1909, Spring 1909, Summer 1909, ...)
@@ -70,14 +70,6 @@ Note that we also hope to see you use Markdown cells to explain your data analys
 
 ## Grading
 
-We will assess your exercise based on the following criteria:
-
-- Reading in the data file
-- Processing the data file to calculate values you need
-- Defining and using a function to convert temperatures to Celsius
-- Aggregating the daily temperature values as needed
-- Plotting your data and formatting the plot to have the necessary elements
-- Documenting your data workflow using Markdown cells in your notebook
-- Including code comments and code format in line with the PEP-8 guidelines
+Grading criteria for the final exercise are [available on the course website](https://geo-python-site.readthedocs.io/en/latest/final-exercise/grading.html).
 
 The total number of points you can receive is 40.
