@@ -4,7 +4,7 @@ The final exercise in the Geo-Python course involves calculating and plotting se
 
 As with the earlier exercises in the course you should save your modifications (regularly) in your GitHub repository.
 
-The final exercise is **due by 17:00 on November 17, 2023**.
+The final exercise is **due by 17:00 on Wednesday, November 15th, 2023**.
 
 ## What is different?
 
