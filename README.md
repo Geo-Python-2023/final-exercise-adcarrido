@@ -1,10 +1,10 @@
-# Geo-Python 2022 final exercise (40 points)
+# Geo-Python 2023 final exercise (40 points)
 
 The final exercise in the Geo-Python course involves calculating and plotting seasonal weather anomalies to see how temperatures have changed in different seasons over the past 100+ years. We will be using weather data from the Sodankylä weather station in northern Finland.
 
 As with the earlier exercises in the course you should save your modifications (regularly) in your GitHub repository.
 
-The final exercise is **due by 17:00 on November 18, 2022**.
+The final exercise is **due by 17:00 on November 17, 2023**.
 
 ## What is different?
 
@@ -67,6 +67,10 @@ For this exercise you should:
 7. Plot the data as shown in the example above
 
 Note that we also hope to see you use Markdown cells to explain your data analysis, and code comments where needed to explain what your code does.
+
+## Use of AI-LLM tools in this exercise
+
+A description of possible use of artificial intelligence large language model (AI-LLM) tools (e.g., ChatGPT) in this exercise will be added before the GitHub classroom link to create your copy of the exercise is made live on the course website.
 
 ## Grading
 
