@@ -75,7 +75,7 @@ The use of artificial intelligence large language model (AI-LLM) tools (e.g., Ch
 
 1. Clearly acknowledge which tool(s) and versions of such tools were utilized to complete the exercise in a section of your notebook titled "**Acknowledgements**".
 2. Describe how the tool(s) was/were used to complete the exercise in a section titled **Use of AI tools** with enough detail that your results could be reproduced. For example, this would include:
-    - Describing how the tools have been used in general terms, such as descibing whether they have been used to generate draft text describing what you have done for the exercise or to produce code you have used.
+    - Explaining how the tools have been used in general terms, such as descibing whether they have been used to generate draft text explaining what you have done for the exercise or to produce code you have used.
     - Listing all prompts that were used to produce code as well as the code that was produced (only the final code is needed if multiple prompts were used) for any sections where code has been generated using an AI tool.
         - Please also note if the generated code was modified by you and how.
 
