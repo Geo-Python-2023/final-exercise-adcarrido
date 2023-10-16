@@ -79,7 +79,7 @@ The use of artificial intelligence large language model (AI-LLM) tools (e.g., Ch
     - Listing all prompts that were used to produce code as well as the code that was produced (only the final code is needed if multiple prompts were used) for any sections where code has been generated using an AI tool.
         - Please also note if the generated code was modified by you and how.
 
-Failure to acknowledge or describe your use of AI tools in this exercise (if used) is considered cheating and will be handled accordingly. Also, please be aware that although an AI tool may have been used to produce parts of your exercise, you are responsible for the results that are produced and should still all of the tasks listed above in the section titled "**What to do**".
+Failure to acknowledge or describe your use of AI tools in this exercise (if used) is considered cheating and will be handled accordingly. Also, please be aware that although an AI tool may have been used to produce parts of your exercise, you are responsible for the results that are produced and should still complete all of the tasks listed above in the section titled "**What to do**".
 
 ## Grading
 
