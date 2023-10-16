@@ -11,6 +11,7 @@ The final exercise is **due by 17:00 on Wednesday, November 15th, 2023**.
 - You will be **working individually** rather than with a partner on this exercise
 - We will provide general instructions about what to do, but you will need to determine how you will approach this exercise
 - You will have an empty Jupyter notebook and will be responsible for determining how you will use the Markdown and Python cells to perform your analysis
+- **AI-LLM-OK** - Use of AI large language models, such as ChatGPT, is OK for this exercise. Details can be found under the heading "**Use of AI-LLM tools in this exercise**" in this document.
 - The exercise is worth **40 points in total**
 
 ## The goal
@@ -70,7 +71,15 @@ Note that we also hope to see you use Markdown cells to explain your data analys
 
 ## Use of AI-LLM tools in this exercise
 
-A description of possible use of artificial intelligence large language model (AI-LLM) tools (e.g., ChatGPT) in this exercise will be added before the GitHub classroom link to create your copy of the exercise is made live on the course website.
+The use of artificial intelligence large language model (AI-LLM) tools (e.g., ChatGPT) is allowed in this exercise. If you choose to use such tools, you must also:
+
+1. Clearly acknowledge which tool(s) and versions of such tools were utilized to complete the exercise in a section of your notebook titled "**Acknowledgements**".
+2. Describe how the tool(s) was/were used to complete the exercise in a section titled **Use of AI tools** with enough detail that your results could be reproduced. For example, this would include:
+    - Describing how the tools have been used in general terms, such as descibing whether they have been used to generate draft text describing what you have done for the exercise or to produce code you have used.
+    - Listing all prompts that were used to produce code as well as the code that was produced (only the final code is needed if multiple prompts were used) for any sections where code has been generated using an AI tool.
+        - Please also note if the generated code was modified by you and how.
+
+Failure to acknowledge or describe your use of AI tools in this exercise (if used) is considered cheating and will be handled accordingly. Also, please be aware that although an AI tool may have been used to produce parts of your exercise, you are responsible for the results that are produced and should still all of the tasks listed above in the section titled "**What to do**".
 
 ## Grading
 
